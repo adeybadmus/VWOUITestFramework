@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+
+  <!-- Test run parameters for configuring the test environment -->
+  <TestRunParameters>
+    <!-- Base URL for the test run -->
+    <Parameter name="baseURL" value="https://app.vwo.com/#/login" />
+
+    <!-- Browser to be used for the test run -->
+    <Parameter name="browser" value="chrome"/>
+
+    <!-- Directory for storing screenshots during the test run -->
+    <Parameter name="ScreenShotDirectory" value="location to store your screen shot" />
+
+    <Parameter name="email" value="abadmus@lqgroup.org.uk"/>
+
+    <Parameter name="password" value="Wisdom1."/>
+  </TestRunParameters>
+
+</RunSettings>
